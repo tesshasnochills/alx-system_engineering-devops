@@ -1,2 +1,2 @@
-i#!/bin/bash
+#!/bin/bash
 chown --no-dereference vincent:staff _hello
